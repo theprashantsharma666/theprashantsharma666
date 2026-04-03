@@ -44,8 +44,8 @@
 
 🛠️ Tech: Python, Pandas, Seaborn, Streamlit
 
-🔗 Live Demo : https://whats-app-chat-analyzer-1.onrender.com/
-📂 GitHub Repo : https://github.com/theprashantsharma666/whatsapp-chat-analyzer
+* 🔗 Live Demo : https://whats-app-chat-analyzer-1.onrender.com/
+* 📂 GitHub Repo : https://github.com/theprashantsharma666/whatsapp-chat-analyzer
 
 ---
 
