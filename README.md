@@ -55,6 +55,7 @@
 * 🥇 Introduction to SQL – Simplilearn
 * 🥇 Pandas & Data Visualization – Kaggle
 * 🥇 TCS iON Career Edge – Young Professional
+* 🥇 Deloitte - Data Analytics Job Simulation
 
 ---
 
