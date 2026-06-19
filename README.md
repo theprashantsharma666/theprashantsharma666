@@ -6,10 +6,19 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/prashant-sharma-52492b330">LinkedIn</a> ·
-  <a href="mailto:prashant.sharma_cs24@gla.ac.in">Email</a> ·
-  <a href="https://github.com/theprashantsharma666">GitHub</a>
+  <a href="https://www.linkedin.com/in/prashant-sharma-52492b330">
+    <img src="https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="mailto:prashant.sharma_cs24@gla.ac.in">
+    <img src="https://img.shields.io/badge/Email%20me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/pandat_prashant_052/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black" />
+  </a>
 </p>
+
 
 <p align="center"><i>"Data is the new soil and I'm here to make things grow."</i></p>
 
@@ -17,13 +26,13 @@
 
 ## About me
 
-B.Tech Computer Science (AI & Data Science) student at GLA University with strong foundations in Machine Learning, Data Science, Python, and Statistics. Experienced in data analysis, visualization, and building data-driven applications through hands-on projects. Passionate about applying machine learning techniques to solve real-world problems and eager to deepen knowledge in AI research and intelligent systems.
+B.Tech Computer Science (AI & Data Science) student at GLA University with strong foundations in Machine Learning, Data Science, Python, and Statistics. Experienced in data analysis, visualization and building data-driven applications through hands-on projects. Passionate about applying machine learning techniques to solve real-world problems and eager to deepen knowledge in AI research and intelligent systems.
 
 - 📍 Palwal, Haryana, India
 - 🎓 B.Tech CSE — AI & Data Science, GLA University · 2028
 - 🔭 Focus: Machine Learning · Data Analysis · Python Development
 - 🤝 Open to: ML/DS Internships · Open Source · Collaborations
-- 🎯 Goal: ML/AI Engineer role
+- 🎯 Goal: ML/AI Engineer role, Data Analyst
 
 ---
 
@@ -85,7 +94,7 @@ Exploratory data analysis on 8,800+ Netflix titles across 190+ countries — unc
 | Kaggle | Pandas & Data Visualization | January 2026 |
 | TCS | iON Career Edge — Young Professional | January 2026 |
 | TCS | AI and Cybersecurity Awareness - AI for All | Jun 2026 |
-| Deloitte | Data Anakytics Job Simulation | June 2026 |
+| Deloitte | Data Analytics Job Simulation | June 2026 |
 
 ---
 
